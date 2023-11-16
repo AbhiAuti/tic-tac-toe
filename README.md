@@ -1,2 +1,1 @@
-# tic-tac-toe
-performed in java 
+# LGM-TIC_TAC_TOE
